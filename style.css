@@ -98,3 +98,7 @@ blockquote {
   margin: 0 auto 50px auto;
   text-align: left;
 }
+footer{
+  text-family: monospace;
+  text-align: right;
+}
